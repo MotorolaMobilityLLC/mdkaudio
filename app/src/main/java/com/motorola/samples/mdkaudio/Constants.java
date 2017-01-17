@@ -36,8 +36,8 @@ public class Constants {
     public static final int INVALID_ID = -1;
 
     public static String URL_PRIVACY_POLICY = "https://motorola.com/device-privacy";
-    public static String URL_DEV_PORTAL = "http://developer.motorola.com";
-    public static String URL_MOD_STORE = "http://developer.motorola.com/buy/";
+    public static String URL_DEV_PORTAL = "http://developer.motorola.com/build/examples/audio";
+    public static String URL_SOURCE_CODE = "https://github.com/MotorolaMobilityLLC/mdkaudio";
 
     public static final int VID_MDK = 0x00000312;
     public static final int VID_DEVELOPER = 0x00000042;
